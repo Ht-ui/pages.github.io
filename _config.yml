@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 6ab1fb6e863dab49bf8a
-    clientSecret : e6f3da5e9ffd0627b34faf2a77b763fa6fa73065
+    clientID : 96252d10241f2b6cba91
+    clientSecret : 994ca04cf06f8cfe94760b09dda2b9bb067f9c1f
     repo : pages
     owner : Ht-ui
     admin : [Ht-ui]
