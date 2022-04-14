@@ -1,6 +1,6 @@
-name: 
-author: 
-url: 
+name: Pages
+author: Ht-ui
+url: https://ht-ui.github.io/pages.github.io
 baseurl: 
 resume_site: 
 description: 
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 714815292d25c37bb8e3
+    clientSecret : 66c01b86aad9999d5042bb7932b2d209486fe7ac
+    repo : pages
+    owner : Ht-ui
+    admin : [Ht-ui]
